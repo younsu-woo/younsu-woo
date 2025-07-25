@@ -5,8 +5,8 @@
 🌱 I’m currently learning Machine Learning and Data Science.
 
 🛠️ Tools
-- Language: Python, SQL
+- Language: Python (Pandas, Matplotlib, Seaborn, Scikit-learn), SQL
 - Database: PostgreSQL, MySQL, Google BigQuery
-- BI Tools: Tableau 
+- BI Tool: Tableau 
 
 📫 How to reach me: Message me on [LinkedIn](http://www.linkedin.com/in/younsuwoo)
